@@ -17,7 +17,7 @@
 </p>
 
 <p>
-  <a href="https://portfolio2-eby9.vercel.app/">
+  <a href="https://rupesh-dev-eta.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/rupesh-panchal-528716261/">
@@ -75,7 +75,7 @@ I'm a Full Stack Developer with **1+ year of experience** building web applicati
 
 ## 🚀 Featured Projects
 
-### 💼 [InsiderJobs — Full-Stack Job Portal](https://jobportal-alpha-eosin.vercel.app/)
+### 💼 [InsiderJobs — Full-Stack Job Portal](https://insiderjobs-eosin.vercel.app/)
 
 A full-stack job portal supporting employer job management and job seeker applications.
 
@@ -85,7 +85,7 @@ A full-stack job portal supporting employer job management and job seeker applic
 
 **Tech Stack:** React.js · Node.js · Express.js · MongoDB · Mongoose · Tailwind CSS
 
-[🌐 Live Demo](https://jobportal-alpha-eosin.vercel.app/) · [📂 GitHub Repositories](https://github.com/Rupesh-Panchal?tab=repositories)
+[🌐 Live Demo](https://insiderjobs-eosin.vercel.app/) · [📂 GitHub Repositories](https://github.com/Rupesh-Panchal/insiderjobs.git)
 
 ---
 
